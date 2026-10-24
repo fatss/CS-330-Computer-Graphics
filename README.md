@@ -6,13 +6,6 @@ This portfolio contains my final project, a 3D study desk scene built in C++
 with OpenGL, GLFW, and GLM, along with the Design Decisions document that
 explains how the scene was built and how a user navigates it.
 
-## Files
-
-```text
-CS330_3D_Scene_Fatima_Imran.zip            Visual Studio project, source, shaders, and textures
-CS330_Design_Decisions_Fatima_Imran.docx   Design decisions and development choices
-```
-
 ## The Scene
 
 The scene is a small study desk made entirely from basic shapes:
